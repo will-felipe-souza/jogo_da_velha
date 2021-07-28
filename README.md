@@ -1,17 +1,16 @@
 <h1 align="center">
-  <img alt="Netflix" title="Netflix" src=".github/netflix-logo.png" width="220px" />
+  <img alt="Jogo da Velha" title="Jogo da Velha" src=".github/logo.png" width="220px" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-incremento">Incremento</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Home Netflix" src=".github/home-page.png" width="100%">
+  <img alt="Jogo da Velha" src=".github/home-page.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -24,10 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido no Bootcamp de Front da Digital Innovation One, a ideia é reproduzir a Home Page da Netflix utilizando HTML, CSS e JS. Utilizamos também o plugin jQuery [OwnlCarousel](https://owlcarousel2.github.io/OwlCarousel2/) para construir o carrossel de filmes.
-
-## 🚀 Incremento
-Adicionei títulos aos carrosséis e um novo carrossel com o nome "Assistir novamente".
+O jogo da velha é um dos projetos do curso "JS do básico ao avançado", realizado através da plataforma Udemy e ministrado pelo Matheus Battisti, a idéia é consolidar os conhecimentos repassados no curso, utilizando HTML5 básico, CSS3 básico e trabalhar com a manipulação do DOM com JS. Desenvolvemos também uma IA que joga de forma aleatória.
 
 ---
 
